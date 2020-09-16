@@ -4,7 +4,7 @@
 
 *You have got to shoot, otherwise you can't score.*
 
-![](./Mariona.jpg "Pic Marion" width=100)
+![alt text] (./Mariona.jpg "Pic Marion" width=100)
 
 ## 'Het blij ei' :hatching_chick:
 
