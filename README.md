@@ -1,5 +1,3 @@
-# markdown-challenge
-
 # Marion Staats
 
 *You have got to shoot, otherwise you can't score.*
