@@ -2,14 +2,13 @@
 
 *You have got to shoot, otherwise you can't score.*
 
-![alt text] (./Mariona.jpg "Pic Marion" width=100)
+![alt text] (https://github.com/marionstaats/markdown-challenge/blob/master/Mariona.jpg "Pic Marion" width=100)
 
 ## 'Het blij ei' :hatching_chick:
 
-Birthday: 02/03
-Favorite color: blue
-Favorite food: Tajin
-Pinneapple on pizza []Yes [x]No
+| Birthday  | Favorite color | Favorite food | Pinneapple on pizza |
+| ------    | -------------  | ------------- | --------------------|
+| 02/03     | Blue           | Tajin         | []Yes [x]No         | 
 
 ### Hobbies
 
