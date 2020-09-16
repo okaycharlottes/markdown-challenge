@@ -4,7 +4,7 @@
 
 *You have got to shoot, otherwise you can't score.*
 
-![alt text](Isolated.png "Pic Marion")
+![Pic Marion](./3774c670-e471-41ef-bec1-61d2d21fac56.JPG "Pic Marion")
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
